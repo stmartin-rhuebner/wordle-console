@@ -1,0 +1,4 @@
+{
+    // configure vs-code to use an external terminal allowing ready key.
+    "csharp.debug.console": "externalTerminal"
+}
